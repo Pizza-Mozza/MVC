@@ -1,0 +1,16 @@
+{
+    "name": "chilinskim/mvc",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Pizza-Mozza",
+            "email": "michal.chilinski@yahoo.fr"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
